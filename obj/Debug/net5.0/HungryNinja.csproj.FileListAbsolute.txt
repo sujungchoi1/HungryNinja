@@ -1,0 +1,15 @@
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/bin/Debug/net5.0/HungryNinja.deps.json
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/bin/Debug/net5.0/HungryNinja.runtimeconfig.json
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/bin/Debug/net5.0/HungryNinja.runtimeconfig.dev.json
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/bin/Debug/net5.0/HungryNinja.dll
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/bin/Debug/net5.0/ref/HungryNinja.dll
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/bin/Debug/net5.0/HungryNinja.pdb
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/obj/Debug/net5.0/HungryNinja.csprojAssemblyReference.cache
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/obj/Debug/net5.0/HungryNinja.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/obj/Debug/net5.0/HungryNinja.AssemblyInfoInputs.cache
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/obj/Debug/net5.0/HungryNinja.AssemblyInfo.cs
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/obj/Debug/net5.0/HungryNinja.csproj.CoreCompileInputs.cache
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/obj/Debug/net5.0/HungryNinja.dll
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/obj/Debug/net5.0/ref/HungryNinja.dll
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/obj/Debug/net5.0/HungryNinja.pdb
+/Users/sujungchoi/Desktop/Coding/C#/HungryNinja/obj/Debug/net5.0/HungryNinja.genruntimeconfig.cache
